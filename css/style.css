@@ -1,0 +1,43 @@
+html {
+    background-color: #fad390;
+}
+
+#main-header {
+    background-color: #f6b93b;
+}
+
+#paragraph-1 {
+    background-color: #fa983a;
+}
+
+#header-2 {
+    background-color: #e58e26;
+}
+
+#paragraph-2 {
+    background-color: #e55039;
+}
+
+ol {
+    background-color: antiquewhite;
+}
+
+#item-1 {
+    color: aqua;
+}
+
+#item-2 {
+    color: rgb(253, 43, 43);
+}
+
+#item-3 {
+    color: rgb(30, 255, 0);
+}
+
+#item-4 {
+    color: rgb(71, 68, 13);
+}
+
+#item-5 {
+    color: rgb(3, 35, 138);
+}
